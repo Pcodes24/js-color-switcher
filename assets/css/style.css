@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding:20px;
+}
+p.button{
+    display:inline-block;
+    width:150px;
+    height:150px;
+    border:2px solid black;
+   
+}
+h2{
+    padding:20px;
+}
+p#grey{
+    background-color: grey;
+}
+p#white{
+    background-color: white;
+}
+p#cadetblue{
+    background-color: cadetblue;
+}
+p#yellow{
+    background-color: yellow;
+}
